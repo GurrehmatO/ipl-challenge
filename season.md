@@ -28,7 +28,7 @@ Entire season table with updated predictions:
 | 28 April | CSK vs SRH | | | |
 | 29 April | MI vs RR | | | |
 | 29 April | DC vs KKR | | | |
-| 30 May | PBKS vs RCB | | | |
+| 30 April | PBKS vs RCB | | | |
 | 1 May | MI vs CSK | | | |
 | 2 May | RR vs SRH | | | |
 | 2 May | PBKS vs DC | | | |
