@@ -1,5 +1,3 @@
-<div align="justify">
-
 [<- Back to Home](readme.md)
 ## Table predictions
 
@@ -15,5 +13,3 @@ Table standings at end of league stage as predicted on 8th April
 | 6 | SRH | KKR | |
 | 7 | RR | RR | |
 | 8 | KKR | RCB | |
-
-</div>
