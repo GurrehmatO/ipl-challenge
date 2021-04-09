@@ -1,3 +1,4 @@
+<div align="justify">
 # IPL Challenge
 
 This is to document the **IPL challenge** between Darshi and Gurrehmat
@@ -19,3 +20,4 @@ This is to document the **IPL challenge** between Darshi and Gurrehmat
 	3. **5 points** for right prediction of the final
 2. For top 4 prediction, each person gets **10 points** for every right prediction and **10 bonus points** if all the 4 predicted teams are right
 3. Entire league standings is much like the Golden Snitch, you catch it right, you win the challenge
+</div>

@@ -1,3 +1,5 @@
+<div align="justify">
+
 [<- Back to Home](readme.md)
 ## League Phase Predictions
 Entire season table with updated predictions:
@@ -60,3 +62,5 @@ Entire season table with updated predictions:
 | 22 May | PBKS vs RR | | | |
 | 23 May | MI vs DC | | | |
 | 23 May | RCB vs CSK | | | |
+
+</div>
