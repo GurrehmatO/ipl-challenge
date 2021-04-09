@@ -6,6 +6,7 @@ Predicted and actual top 4:
 | CSK, DC, MI, RCB | PBKS, MI, SRH, DC | TBD |
 
 ## Points scored in Top 4
+
 | Darshi | Gurrehmat |
 | ------ | --------- |
 | 0 | 0 |
