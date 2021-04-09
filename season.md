@@ -4,7 +4,7 @@ Entire season table with updated predictions:
 
 | Date | Game | Darshi | Gurrehmat | Result |
 | ---- | ---- | ------ | --------- | ------ |
-| 9 April | MI vs RCB | | | |
+| 9 April | MI vs RCB | MI | MI | |
 | 10 April | CSK vs DC | | | |
 | 11 April | SRH vs KKR | | | |
 | 12 April | RR vs PBKS | | | |
