@@ -3,9 +3,9 @@
 This is to document the **IPL challenge** between Darshi and Gurrehmat
 
 ## Format
-1) Predicting winning team for each game (before respective game starts)
-2) Predicting top 4 teams
-3) Predicting entire pre playoffs standings 
+1. Predicting winning team for each game (before respective game starts)
+2. Predicting top 4 teams
+3. Predicting entire pre playoffs standings 
 
 ## Scoring
 1. For winning team of each game scoring system is as follows:
