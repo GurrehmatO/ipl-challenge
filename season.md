@@ -6,13 +6,13 @@ Entire season table with updated predictions:
 | ---- | ---- | ------ | --------- | ------ |
 | 9 April | MI vs RCB | MI | MI | RCB |
 | 10 April | CSK vs DC | CSK | CSK | DC |
-| 11 April | SRH vs KKR | SRH | KKR | |
-| 12 April | RR vs PBKS | | | |
-| 13 April | KKR vs MI | | | |
-| 14 April | SRH vs RCB | | | |
-| 15 April | RR vs DC | | | |
-| 16 April | PBKS vs CSK | | | |
-| 17 April | MI vs SRH | | | |
+| 11 April | SRH vs KKR | SRH | KKR | KKR |
+| 12 April | RR vs PBKS | - | PBKS | PBKS |
+| 13 April | KKR vs MI | - | - | MI |
+| 14 April | SRH vs RCB | SRH | SRH | RCB |
+| 15 April | RR vs DC | - | - | RR |
+| 16 April | PBKS vs CSK | CSK | PBKS | CSK |
+| 17 April | MI vs SRH | SRH | MI | MI |
 | 18 April | RCB vs KKR | | | |
 | 18 April | DC vs PBKS | | | |
 | 19 April | CSK vs RR | | | |
